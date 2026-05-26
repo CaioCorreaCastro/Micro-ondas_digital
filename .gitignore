@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+Logs/
+logs.txt
+
+# Temporary files
+*.tmp
+*.temp
